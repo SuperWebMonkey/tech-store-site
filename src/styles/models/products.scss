@@ -1,0 +1,12 @@
+.products__items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+span {
+    display: block;
+}
+.products__item {
+    width: 23%;
+    margin: 5px;
+}
